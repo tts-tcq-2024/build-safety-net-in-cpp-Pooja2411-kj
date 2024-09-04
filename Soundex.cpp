@@ -50,6 +50,3 @@ std::string generateSoundex(const std::string& name) {
 
     return padWithZeros(soundex);
 }
-
-    return soundex;
-}
